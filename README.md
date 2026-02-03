@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/krishan-gupta/LeetCode/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/krishan-gupta/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
