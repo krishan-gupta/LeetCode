@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/krishan-gupta/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krishan-gupta/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/krishan-gupta/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishan-gupta/LeetCode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
