@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
+| [3110-score-of-a-string](https://github.com/krishan-gupta/LeetCode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
