@@ -9,5 +9,4 @@ double* convertTemperature(double celsius, int* returnSize) {
     arr[1]=fahren;
     *returnSize = 2;
     return arr;
-    free(arr);
 }
