@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/krishan-gupta/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/krishan-gupta/LeetCode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/krishan-gupta/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
