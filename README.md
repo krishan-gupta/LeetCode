@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/krishan-gupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/krishan-gupta/LeetCode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/krishan-gupta/LeetCode/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/krishan-gupta/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/krishan-gupta/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
