@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/krishan-gupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/krishan-gupta/LeetCode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/krishan-gupta/LeetCode/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/krishan-gupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/krishan-gupta/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishan-gupta/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/krishan-gupta/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishan-gupta/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/krishan-gupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
