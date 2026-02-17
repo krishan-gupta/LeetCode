@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/krishan-gupta/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/krishan-gupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/krishan-gupta/LeetCode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/krishan-gupta/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/krishan-gupta/LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishan-gupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/krishan-gupta/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/krishan-gupta/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/krishan-gupta/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/krishan-gupta/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/krishan-gupta/LeetCode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/krishan-gupta/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/krishan-gupta/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/krishan-gupta/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishan-gupta/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/krishan-gupta/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/krishan-gupta/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/krishan-gupta/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishan-gupta/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
